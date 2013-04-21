@@ -7,7 +7,8 @@
                <div class="inner span7">
                   <h1>Đặng Dạ Viện</h1>
                   <h2>PHP developer</h2>
-                  <p>I'm developer. I 'm building and developing website. Main programing language is PHP. I like freelance.</p>
+                  <p><br/><i>"The greatest happiness of life it the conviction that we are loved - loved for ourselves, or rather, loved in spite of ourselves."</i></p>
+                  <i style='float:right'>victo huygo.</i>
                   <p style='display:none'>
                      <a class="btn btn-large btn-primary" href="https://github.com/aozora/bootmetro/zipball/master">
                         Download Now
