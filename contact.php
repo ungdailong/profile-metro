@@ -1,4 +1,5 @@
 <?php 
+$name_path = "Contact me";
    include("header.php");
    include("nav-bar.php");
 ?>
@@ -7,8 +8,8 @@
    <div class="row">
       <div class="span12">
 
-         <h1>Contact me<small></small></h1>
-         Contact me if you have any question or issue. Thanks you...!
+         
+         <div class="alert alert-info">Contact me if you have any question or issue. Thanks you...!</div>
          <p>
          	<form method='POST' action=''>
          		<table>

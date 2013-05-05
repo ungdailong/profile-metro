@@ -7763,7 +7763,7 @@ div.folderlist_content ul li.nav-linked-folder li.current_folder_location>a.fold
 	height: 41px;
 	left: 153px;
 	overflow: hidden;
-	position: fixed;
+	position: absolute;
 	right: 0;
 /* 	top: 71px; */
 	background: #f2f2f2;

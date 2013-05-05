@@ -1,5 +1,5 @@
 <?php
-error_reporting(0);
+//error_reporting(0);
 include ("header.php");
 include ("nav-bar.php");
 /*
@@ -9,7 +9,7 @@ $appId = "34282";
 $apiKey = "ynk82qkpv75m3wk93kkcpt323getvdneqa85mw62";
 $email = "ungdailong@yahoo.com";
 $password = "thuongvien";
-include ("/lib/api-mediafire.php");
+include ("lib/api-mediafire.php");
 
 $mflib = new mflib ( $appId, $apiKey );
 $mflib->email = $email;

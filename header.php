@@ -10,12 +10,12 @@
    <!-- Mobile viewport optimized: h5bp.com/viewport -->
    <meta name="viewport" content="width=device-width">
 
-   <title>the-vagabond.net</title>
+   <title>Đặng Dạ Viện, Php developer, My profile, All projects</title>
 
    <meta name="robots" content="index, nofollow">
-   <meta name="description" content="BootMetro : Simple and complete web UI framework to create web apps with Windows 8 Metro user interface." />
-   <meta name="keywords" content="bootmetro, modern ui, modern-ui, metro, metroui, metro-ui, metro ui, windows 8, metro style, bootstrap, framework, web framework, css, html" />
-   <meta name="author" content="AozoraLabs by Marcello Palmitessa"/>
+   <meta name="description" content="Profile : My profile and all my projects." />
+   <meta name="keywords" content="developer, php, php developer, profile, document, music, cv, curriculum vitae, vagabond, dang da vien, viendang, dangdavien, ungdailong, ungdailong@gmail.com, ho so, ca nhan" />
+   <meta name="author" content="vagabond"/>
    
    <!-- remove or comment this line if you want to use the local fonts -->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
@@ -25,17 +25,17 @@
    <link rel="stylesheet" type="text/css" href="content/css/bootmetro.css">
    <link rel="stylesheet" type="text/css" href="content/css/bootmetro-responsive.css">
    <link rel="stylesheet" type="text/css" href="content/css/bootmetro-ui-light.css">
-   <link rel="stylesheet" type="text/css" href="content/css/datepicker.css">
+<!--    <link rel="stylesheet" type="text/css" href="content/css/datepicker.css"> -->
    <!--[if IE 7]>
    <link rel="stylesheet" type="text/css" href="content/css/bootmetro-icons-ie7.css">
    <![endif]-->
 
    <!--  these two css are to use only for documentation -->
    <link rel="stylesheet" type="text/css" href="content/css/demo.css">
-   <link rel="stylesheet" type="text/css" href="scripts/google-code-prettify/prettify.css" >
+<!--    <link rel="stylesheet" type="text/css" href="scripts/google-code-prettify/prettify.css" > -->
 
    <!-- Le fav and touch icons -->
-   <link rel="shortcut icon" href="content/ico/favicon.ico">
+   
    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="content/ico/apple-touch-icon-144-precomposed.png">
    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="content/ico/apple-touch-icon-114-precomposed.png">
    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="content/ico/apple-touch-icon-72-precomposed.png">
@@ -46,16 +46,7 @@
       For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ -->
       <script src="scripts/modernizr-2.6.2.min.js"></script>
 
-      <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-3182578-6']);
-      _gaq.push(['_trackPageview']);
-      (function() {
-         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-      </script>
+      
    </head>
 
    <body>

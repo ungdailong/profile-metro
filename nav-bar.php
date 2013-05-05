@@ -2,32 +2,30 @@
       <div class="row">
          <div class="span12">
             <div id="header-container">
-               <a id="backbutton" class="win-backbutton" href="./hub.html"></a>
+               <a id="backbutton" class="win-backbutton" href="."></a>
                <h5>the-vagabond.net</h5>
                <div class="dropdown">
                   <a class="header-dropdown dropdown-toggle accent-color" data-toggle="dropdown" href="#" >
-                     Base CSS
+                     <?php echo $name_path?>
                      <b class="caret"></b>
                   </a>
                   <ul class="dropdown-menu">
-                  <li><a href="./metro-layouts.html">Metro Layouts</a></li>
-                  <li><a href="./hub.html">Hub</a></li>
-                  <li><a href="./tiles-templates.html">Tile Templates</a></li>
-                  <li><a href="./listviews.html">ListViews</a></li>
-                  <li><a href="./appbar-demo.html">App-Bar Demo</a></li>
-                  <li><a href="./table.html">Table Demo</a></li>
-                  <li><a href="./wizard.html">Wizard</a></li>
-                  <li><a href="./icons.html">Icons</a></li>
-                  <li><a href="./toast.html">Toast Notifications</a></li>
-                  <li><a href="./pivot.html">Pivot</a></li>
-                  <li><a href="./metro-components.html">Metro Components</a></li>
+                  <li><a href="about">About me</a></li>
+                  <li><a href="contact">Contact me</a></li>
+                  <li><a href="project">View all projects</a></li>
+               
+                  <li><a href="cv">My Curriculum Vitae</a></li>
+                  <li><a href="document">Document</a></li>
                   <li class="divider"></li>
-                  <li><a href="./scaffolding.html">Bootstrap Scaffolding</a></li>
-                  <li><a href="./base-css.html">Bootstrap Base CSS</a></li>
-                  <li><a href="./components.html">Bootstrap Components</a></li>
-                  <li><a href="./javascript.html">Bootstrap Javascript</a></li>
+                  <li><a target='_blank'href="music.the-vagabond.net">Music site</a></li>
+                  
                   <li class="divider"></li>
-                  <li><a href="./index.html">Home</a></li>
+                  <li><a target='_blank'href="https://twitter.com/viendang">Follow on Twitter</a></li>
+                  <li><a target='_blank'href="https://www.facebook.com/dangdavien">Friend on Facebook</a></li>
+                  <li><a target='_blank'href="http://www.youtube.com/user/ungdailong">Subscribe on Youtube</a></li>
+                  
+                  <li class="divider"></li>
+                  <li><a href="index.php">Home</a></li>
                </ul>
             </div>
             </div>
