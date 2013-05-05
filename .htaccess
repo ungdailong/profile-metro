@@ -1,0 +1,20 @@
+Options -Indexes
+RewriteEngine on
+
+#other
+RewriteRule \.(css|jpe?g|gif|png|js|swf|php)$ - [L]
+RewriteRule ^favicon.ico$ favicon.ico [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule 	^project.*$ 						project.php [L]
+RewriteRule 	^document.*$ 						document.php [L]
+RewriteRule 	^cv.*$ 						cv.php [L]
+RewriteRule 	^about.*$ 						about.php [L]
+RewriteRule 	^contact.*$ 						contact.php [L]
+
+
+
+
+
+
+
